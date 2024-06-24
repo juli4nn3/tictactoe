@@ -1,0 +1,29 @@
+/* Created by: Julianne Leblanc-Peltier
+* Created on: June 2024
+* This file contains the CSS for index.html
+*/
+
+.header {
+  padding: 40px;
+  text-align: center;
+  background: #7452ef;
+  color: white;
+  font-size: 30px;
+}
+
+.left-side-text-header {
+  text-align: left;
+}
+
+.right-side-text-header {
+  text-align: right;
+}
+
+body {
+  background-color: rgb(255, 240, 252);
+}
+
+.right-side-title {
+  text-align: right;
+  // stuff to align text to the right side, incompatitable with current header?
+}
